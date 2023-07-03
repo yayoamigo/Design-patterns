@@ -19,36 +19,84 @@ namespace Singleton
 
     }
 
+    //LAZY LOADING
+
+    //public sealed class Singleton
+    //{
+    //    public static Singleton Instance = null;
+    //    private static readonly object _lock = new object();
+    //    public static Singleton GetInstance()
+    //    {
+    //        if (Instance == null)
+    //        {  
+    //            lock (_lock)
+    //            {
+    //                if (Instance == null)
+    //                {
+    //                    Instance = new Singleton();
+    //                }
+    //            }
+
+
+    //        }
+    //        return Instance;
+    //    }
+
+    //    private Singleton()
+    //    {
+    //        Console.WriteLine("new singleton");
+    //    }
+
+    //    public void PrintDetails(string details)
+    //    {
+    //        Console.WriteLine(details);
+    //    }
+    //}
+
+    //EAGER LOADING
+
+    //public sealed class Singleton
+    //{
+    //    public static readonly Singleton Instance = new Singleton();
+
+    //    public static Singleton GetInstance()
+    //    {
+
+    //        return Instance;
+    //    }
+
+    //    private Singleton()
+    //    {
+    //        Console.WriteLine("new singleton");
+    //    }
+
+    //    public void PrintDetails(string details)
+    //    {
+    //        Console.WriteLine(details);
+    //    }
+    //}
+
     public sealed class Singleton
-    {
-        public static Singleton Instance = null;
-        private static readonly object _lock = new object();
+    {   private static int counter = 0;
+        public static readonly Lazy<Singleton> Instance = new Lazy<Singleton>(() => new Singleton());
+
         public static Singleton GetInstance()
         {
-            if (Instance == null)
-            {  
-                lock (_lock)
-                {
-                    if (Instance == null)
-                    {
-                        Instance = new Singleton();
-                    }
-                }
-                
 
-            }
-            return Instance;
+            return Instance.Value;
         }
 
         private Singleton()
         {
             Console.WriteLine("new singleton");
+            counter++;
+            
         }
 
         public void PrintDetails(string details)
         {
             Console.WriteLine(details);
+            Console.WriteLine(counter);
         }
     }
-           
 }
