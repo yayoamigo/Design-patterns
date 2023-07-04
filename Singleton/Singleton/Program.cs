@@ -88,7 +88,7 @@ namespace Singleton
 
         private Singleton()
         {
-            Console.WriteLine("new singleton");
+            Console.WriteLine("new singleton instance");
             counter++;
             
         }
