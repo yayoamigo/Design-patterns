@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\bin\Debug\net6.0\openClose.exe
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\bin\Debug\net6.0\openClose.deps.json
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\bin\Debug\net6.0\openClose.runtimeconfig.json
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\bin\Debug\net6.0\openClose.dll
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\bin\Debug\net6.0\openClose.pdb
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.AssemblyInfo.cs
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.dll
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\refint\openClose.dll
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.pdb
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\openClose.genruntimeconfig.cache
+C:\Users\david\source\repos\Design-patterns\solid3\solid3\obj\Debug\net6.0\ref\openClose.dll

@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\bin\Debug\net6.0\DependencyInv.exe
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\bin\Debug\net6.0\DependencyInv.deps.json
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\bin\Debug\net6.0\DependencyInv.runtimeconfig.json
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\bin\Debug\net6.0\DependencyInv.dll
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\bin\Debug\net6.0\DependencyInv.pdb
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.AssemblyInfo.cs
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.dll
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\refint\DependencyInv.dll
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.pdb
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\DependencyInv.genruntimeconfig.cache
+C:\Users\david\source\repos\Design-patterns\solid4\solid4\obj\Debug\net6.0\ref\DependencyInv.dll

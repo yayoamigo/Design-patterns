@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\bin\Debug\net6.0\InterfaceSeg.exe
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\bin\Debug\net6.0\InterfaceSeg.deps.json
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\bin\Debug\net6.0\InterfaceSeg.runtimeconfig.json
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\bin\Debug\net6.0\InterfaceSeg.dll
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\bin\Debug\net6.0\InterfaceSeg.pdb
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.AssemblyInfo.cs
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.dll
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\refint\InterfaceSeg.dll
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.pdb
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\InterfaceSeg.genruntimeconfig.cache
+C:\Users\david\source\repos\Design-patterns\solid2\solid2\obj\Debug\net6.0\ref\InterfaceSeg.dll
