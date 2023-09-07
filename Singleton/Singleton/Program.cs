@@ -11,7 +11,7 @@ namespace Singleton
             Singleton employee = Singleton.GetInstance();
             employee.PrintDetails("This is a singleton design pattern example!");
             Singleton student = Singleton.GetInstance();
-            student.PrintDetails("This is a singleton design pattern example 2");
+            student.PrintDetails("This is a singleton design pattern example ");
 
         }
 
