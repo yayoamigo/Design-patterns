@@ -9,7 +9,7 @@ namespace Singleton
         static void Main(string[] args)
         {
             Singleton employee = Singleton.GetInstance();
-            employee.PrintDetails("This is a singleton design pattern example!");
+            employee.PrintDetails("This is a singleton design pattern example!1");
             Singleton student = Singleton.GetInstance();
             student.PrintDetails("This is a singleton design pattern example! ");
 
